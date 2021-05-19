@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827995735804",
+    "firebase_url": "https://mcmaster-updates-default-rtdb.firebaseio.com",
+    "project_id": "mcmaster-updates",
+    "storage_bucket": "mcmaster-updates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827995735804:android:f029e935872e46cd153979",
+        "android_client_info": {
+          "package_name": "com.McMaster.McMasterUpdates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827995735804-2io1ivtpk48jhmcn2415gtjlgm7h31ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8_Af52zt54rNq_xrjY-aG6DtcrYiPSVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827995735804-2io1ivtpk48jhmcn2415gtjlgm7h31ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
